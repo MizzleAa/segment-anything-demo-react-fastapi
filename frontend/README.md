@@ -3,11 +3,10 @@
 This **front-end only** demo shows how to load a fixed image and `.npy` file of the SAM image embedding, and run the SAM ONNX model in the browser using Web Assembly with mulithreading enabled by `SharedArrayBuffer`, Web Worker, and SIMD128.
 
 ## Demo
-![ex_screenshot](./readme/demo.gif)
+<!-- ![ex_screenshot](./readme/demo.gif) -->
 
-<p float="left">
-  <video src="model/demo.mkv"/>
-</p>
+[![asciicast](./readme/demo.gif)](https://github.com/MizzleAa/segment-anything-demo/tree/main/frontend/readme/demo.mkv)
+
 
 ## Run the app
 
